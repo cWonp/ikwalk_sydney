@@ -1,0 +1,9 @@
+float64 time
+float64 x_r
+float64 y_r
+float64 z_r
+float64 yaw_r
+float64 x_l
+float64 y_l
+float64 z_l
+float64 yaw_l
